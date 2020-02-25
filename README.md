@@ -1,5 +1,5 @@
 
-<h3>This script will automally do the Canvas quiz</h3> 
+<h3>Do my Canvas quiz</h3> 
 
 <h3>Framework: Selenium</h3>
 
