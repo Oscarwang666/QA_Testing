@@ -1,5 +1,5 @@
 
-<h3>Do my Canvas quiz</h3> 
+<h3>Do my Canvas quiz 2.0</h3> 
 <p>I am taking a online GE course and I just cannot be bother do every quizs manually..</p>
 <h3>Framework: Selenium</h3>
 <h3>Have to download the right version of Chrome browser: http://chromedriver.storage.googleapis.com/index.html</h3>
