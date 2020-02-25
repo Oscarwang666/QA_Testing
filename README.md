@@ -1,6 +1,6 @@
 
 <h3>Do my Canvas quiz 2.0</h3> 
-<p>I am taking a online GE course and I just cannot be bother do every quizs manually..</p>
+<p>just for fun</p>
 <h4>Framework: Selenium</h4>
 
 <IMG SRC="https://user-images.githubusercontent.com/34757116/75286721-ce57e380-57cd-11ea-9140-e53845fcbe46.gif" height="200" width="400">
